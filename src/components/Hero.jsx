@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="max-w-[800px]">
         <p className="text-gray-200 md:text-6xl text-3xl tracking-tight">
           HEY, I AM <br />
-          <span className="text-blue-200">AKAMAN</span> <br />
+          <span className="text-[#3d6ca4]">AKAMAN</span> <br />
           <TypeAnimation
             sequence={[
               "Developer",
