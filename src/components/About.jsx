@@ -11,7 +11,6 @@ import {
   DiSass,
   DiMongodb,
   DiBootstrap,
-  DiGitBranch,
   DiGithubBadge,
 } from "react-icons/di";
 
