@@ -14,8 +14,8 @@ const NavBar = () => {
   };
 
   return (
-    <div className="flex text-2xl justify-between text-gray-200 items-center px-6 max-w-[1200px] mx-auto h-24">
-      <a href="#">akaman</a>
+    <div className="flex text-2xl justify-between text-gray-200 items-center px-4 max-w-[1040px] mx-auto h-24">
+      <a href="#">M.A</a>
 
       <ul className="hidden md:flex gap-12 z-10 cursor-pointer">
         <li className="relative group">

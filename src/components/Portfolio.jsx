@@ -10,7 +10,7 @@ import { AiFillGithub } from "react-icons/ai";
 const projects = [
   {
     img: project1,
-    title: "project #1",
+    title: "Project #1",
     description: "UI for front end development",
     links: {
       site: "#",
@@ -19,7 +19,7 @@ const projects = [
   },
   {
     img: project2,
-    title: "project #2",
+    title: "Project #2",
     description: "A fullstack application built with Node.js and MongoDB.",
     links: {
       site: "#",
@@ -28,7 +28,7 @@ const projects = [
   },
   {
     img: project3,
-    title: "project #3",
+    title: "Project #3",
     description: "A responsive website built with morden css",
     links: {
       site: "#",
@@ -37,7 +37,7 @@ const projects = [
   },
   {
     img: project4,
-    title: "project #4",
+    title: "Project #4",
     description: "An e-commerce platform with various featues ",
     links: {
       site: "#",
@@ -46,7 +46,7 @@ const projects = [
   },
   {
     img: project5,
-    title: "project #5",
+    title: "Project #5",
     description: "A mobile friendly application using react native",
     links: {
       site: "#",
@@ -55,7 +55,7 @@ const projects = [
   },
   {
     img: project6,
-    title: "project #6",
+    title: "Project #6",
     description: "A data visualization project using D3.js and other libraries",
     links: {
       site: "#",

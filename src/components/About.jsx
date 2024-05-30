@@ -17,7 +17,7 @@ import {
 const About = () => {
   return (
     <div
-      className="max-w-[1300px] mx-auto p-6 grid md:grid-cols-2 gap-8 place-items-center"
+      className="max-w-[1040px] mx-auto p-6 grid md:grid-cols-2 gap-8 place-items-center"
       id="about"
     >
       <div className="md:hidden bg-white bg-opacity-10 backdrop-blur-lg rounded-lg p-6 flex flex-wrap gap-4 text-4xl justify-center">
