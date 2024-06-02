@@ -7,10 +7,10 @@ const Footer = () => {
       <div className="space-y-4">
         <h3 className="text-2xl text-gray-200 font-semibold">akaman</h3>
         <div className="flex flex-row gap-6 text-gray-400 text-4xl">
-          <a href="">
+          <a href="https://github.com/akaman198" target="_blank">
             <FaGithubSquare />
           </a>
-          <a href="">
+          <a href="https://www.linkedin.com/in/akamandisa/" target="_blank">
             <FaLinkedinIn />
           </a>
         </div>
