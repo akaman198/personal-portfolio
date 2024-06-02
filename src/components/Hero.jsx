@@ -2,6 +2,7 @@ import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import profilepic from "../assets/profilepic.png";
 import cv from "../assets/CV.pdf";
+import { Link } from "react-scroll";
 
 const Hero = () => {
   return (
@@ -36,9 +37,15 @@ const Hero = () => {
             Download CV
           </a>
 
-          <button className="transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 border border-gray-400 rounded-xl ">
+          <Link
+            to="portfolio"
+            smooth={true}
+            offset={50}
+            duration={500}
+            className="text-center transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 border border-gray-400 rounded-xl "
+          >
             View Work
-          </button>
+          </Link>
         </div>
       </div>
 
