@@ -1,6 +1,7 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import profilepic from "../assets/profilepic.png";
+import cv from "../assets/CV.pdf";
 
 const Hero = () => {
   return (
@@ -27,9 +28,13 @@ const Hero = () => {
         <h2 className="text-gray-300">With 2+ Years of experience</h2>
 
         <div className="flex flex-row gap-4 mb-4 md:mb-0">
-          <button className="transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 bg-gradient-to-r from-[#50a7c7] via-[#1f7c8f] to-[#3d6ca4] rounded-xl ">
+          <a
+            className="text-center transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 bg-gradient-to-r from-[#50a7c7] via-[#1f7c8f] to-[#3d6ca4] rounded-xl"
+            href={cv}
+            target="_blank"
+          >
             Download CV
-          </button>
+          </a>
 
           <button className="transform transition-transform hover:scale-105 hover:shadow-lg z-10 cursor-pointer font-bold text-gray-200 w-1/2 mt-6 p-2 border border-gray-400 rounded-xl ">
             View Work
