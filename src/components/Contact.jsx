@@ -12,8 +12,8 @@ const Contact = () => {
           <AiFillLinkedin className="w-[70px] h-auto text-gray-300" />
           <div className="m-5">
             <h3 className="text-lg font-bold text-gray-200">Contact</h3>
-            <p className="text-gray-400">Mobile: xxx</p>
-            <p className="text-gray-400">Email: xxx</p>
+            <p className="text-gray-400">Mobile: 0977777777</p>
+            <p className="text-gray-400">Email: amwaka98@gmail.com</p>
           </div>
         </li>
 
