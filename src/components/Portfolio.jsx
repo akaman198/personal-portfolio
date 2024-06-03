@@ -31,8 +31,8 @@ const projects = [
     title: "Project #3",
     description: "A responsive website built with morden css",
     links: {
-      site: "#",
-      github: "#",
+      site: "https://zam-drop.netlify.app/",
+      github: "https://github.com/akaman198/zam-drop",
     },
   },
   {
