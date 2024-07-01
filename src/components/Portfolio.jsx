@@ -13,23 +13,24 @@ const projects = [
     title: "Project #1",
     description: "UI for front end development",
     links: {
-      site: "#",
-      github: "#",
+      site: "https://github.com/akaman198/",
+      github: "https://github.com/akaman198/",
     },
   },
   {
     img: project2,
     title: "Project #2",
-    description: "A fullstack application built with Node.js and MongoDB.",
+    description: "Personal portfolio built with React and Tailwind CSS.",
     links: {
-      site: "#",
-      github: "#",
+      site: "https://akaman.netlify.app/",
+      github: "https://github.com/akaman198/personal-portfolio",
     },
   },
   {
     img: project3,
     title: "Project #3",
-    description: "A responsive website built with morden css",
+    description:
+      "A Fully Responsive Financial App Landing Page with Modern UI in React with Tailwind.",
     links: {
       site: "https://zam-drop.netlify.app/",
       github: "https://github.com/akaman198/zam-drop",
@@ -40,17 +41,17 @@ const projects = [
     title: "Project #4",
     description: "An e-commerce platform with various featues ",
     links: {
-      site: "#",
-      github: "#",
+      site: "#https://github.com/akaman198/",
+      github: "#https://github.com/akaman198/",
     },
   },
   {
     img: project5,
     title: "Project #5",
-    description: "A mobile friendly application using react native",
+    description: "A company website built using WordPress",
     links: {
-      site: "#",
-      github: "#",
+      site: "https://katoya-innovations.com/",
+      github: "https://github.com/akaman198/",
     },
   },
   {
@@ -58,8 +59,8 @@ const projects = [
     title: "Project #6",
     description: "A data visualization project using D3.js and other libraries",
     links: {
-      site: "#",
-      github: "#",
+      site: "https://github.com/akaman198/",
+      github: "https://github.com/akaman198/",
     },
   },
 ];
