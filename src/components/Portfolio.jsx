@@ -57,9 +57,9 @@ const projects = [
   {
     img: project6,
     title: "Project #6",
-    description: "A data visualization project using D3.js and other libraries",
+    description: "A company website built using Wordpress",
     links: {
-      site: "https://github.com/akaman198/",
+      site: "https://mutakamwa.org/",
       github: "https://github.com/akaman198/",
     },
   },
