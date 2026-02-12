@@ -1,7 +1,6 @@
 import React from "react";
 import { TypeAnimation } from "react-type-animation";
 import profilepic from "../assets/profilepic.png";
-import cv from "../assets/CV.pdf";
 import { Link } from "react-scroll";
 
 const Hero = () => {
